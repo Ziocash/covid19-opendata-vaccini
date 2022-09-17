@@ -1,3 +1,5 @@
+[![Sync Fork](https://github.com/Ziocash/covid19-opendata-vaccini/actions/workflows/fetch.yml/badge.svg)](https://github.com/Ziocash/covid19-opendata-vaccini/actions/workflows/fetch.yml)
+
 <h1 align="center">Covid-19 Opendata Vaccini</h1>
 
 <div align="center">
