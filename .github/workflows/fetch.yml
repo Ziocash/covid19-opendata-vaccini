@@ -19,3 +19,4 @@ jobs:
           base: master
           merge_method: merge
           auto_approve: true
+          auto_merge: true
