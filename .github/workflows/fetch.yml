@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tgymnich/fork-sync@v1.6
+      - uses: tgymnich/fork-sync@v1.6.3
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           head: master
           base: master
           merge_method: merge
-          auto_approve: true
           auto_merge: true
-          ignore_fail: true
