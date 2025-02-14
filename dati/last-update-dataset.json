@@ -1,3 +1,24 @@
 {
-    "ultimo_aggiornamento": "2023-04-09T04:17:36.057254+00:00"
+    "schema":{
+        "fields":[
+            {
+                "name":"index",
+                "type":"integer"
+            },
+            {
+                "name":"ultimo_aggiornamento",
+                "type":"datetime"
+            }
+        ],
+        "primaryKey":[
+            "index"
+        ],
+        "pandas_version":"0.20.0"
+    },
+    "data":[
+        {
+            "index":0,
+            "ultimo_aggiornamento":"2025-02-13T01:12:03.490Z"
+        }
+    ]
 }

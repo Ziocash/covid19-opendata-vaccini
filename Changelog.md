@@ -4,6 +4,37 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 20/11/2023
+Il file `somministrazioni-vaccini-latest` è stato definitivamente rimosso dal repository. Il suo contenuto è disponibile nei 4 files indicati al precedente Changelog del 24/05/2023. 
+
+L'aggiornamento dei files 
+- `somministrazioni-vaccini-latest-2020`
+- `somministrazioni-vaccini-latest-2021`
+- `somministrazioni-vaccini-latest-2022`
+- `somministrazioni-vaccini-latest-2023`
+
+è stato sospeso e i dati contenuti nei suddetti files sono riferiti esclusivamente all'andamento della Campagna Vaccinale fino al 24/09/2023.
+
+Sono stati aggiunti i files 
+- `somministrazioni-vaccini-latest-campagna-2023-2024`
+- `somministrazioni-vaccini-summary-latest-campagna-2023-2024`
+
+relativi ai dati della **Campagna Vaccinale 2023-2024** in vigore dal 25/09/2023.
+
+A partire dal 20/11/2023 l'aggiornamento delle somministrazioni relative alla **Campagna Vaccinale 2023-2024** sarà effettuato con cadenza settimanale e non più giornaliera.  
+
+
+## 24/05/2023
+A partire dal 15/06/2023 il file `somministrazioni-vaccini-latest` sarà dismesso.
+
+Sono stati aggiunti i files  
+- `somministrazioni-vaccini-latest-2020`
+- `somministrazioni-vaccini-latest-2021`
+- `somministrazioni-vaccini-latest-2022`
+- `somministrazioni-vaccini-latest-2023`
+
+che andranno a sostituire il file cumulativo delle somministrazioni `somministrazioni-vaccini-latest`.
+
 ## 17/02/2023
 Aggiunto il valore **00-04** alla chiave **eta** che identifica la fascia anagrafica 6 mesi-4 anni, autorizzata alla somministrazione del ciclo vaccinale primario. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `platea`, `soggetti-guariti`.
 
